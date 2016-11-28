@@ -1,5 +1,8 @@
 ## General
 
+#ignore Windows version
+windows
+
 # Compiled Object files
 *.slo
 *.lo
